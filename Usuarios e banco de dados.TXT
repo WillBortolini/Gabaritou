@@ -1,0 +1,10 @@
+Usuario professor: 
+Login: 0
+Senha: 123
+Usuario aluno
+Login: 2
+Senha: 123
+Banco de dados:
+User: luisa_willian
+Senha: 2021@Luisa_willian
+200.18.128.50
