@@ -4,3 +4,4 @@ Os professores passaram um trabalho com a intenção de que fizessemos um site c
 Então decidimos fazer esse banco de questões que tinha como objetivo armazenar questões de prova para que diversos professorer pudessem consultar e utilizar elas em suas provas.
 Por conta do nosso conhecimento não muito apurado e o pequeno tempo não conseguimos fazer tudo que queriamos, mas chegamos proximo do objetivo.
 Pretendo um dia voltar a mexer nele e melhorar alguns aspectos apenas para satisfação pessoal.
+//Atualmente o banco de dados não funciona pois perdemos o acesso ao banco de dados
